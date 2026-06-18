@@ -48,3 +48,7 @@ python3 mc_options.py
 - **Risk-neutral pricing**: simulate under Q-measure (drift = r), discount at risk-free rate
 - **Greeks via bump-and-reprice**: Δ = (V(S+h) − V(S−h)) / 2h (central difference)
 - **VaR**: worst loss not exceeded at given confidence level over a holding period
+
+## Author
+
+Sarvesh S — IIT Madras (ED23B042)
